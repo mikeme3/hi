@@ -785,6 +785,9 @@ blockquote {
 #menu-1 .dropdown-item[aria-expanded="true"] {
   color: #f39c12!important;
 }
+#header11-0 H1 {
+  font-size: 84px;
+}
 #features8-3 .lead {
   color: #9fa3a7;
 }
@@ -810,7 +813,4 @@ blockquote {
 }
 #features7-5 .mbr-section-text {
   color: #ffffff;
-}
-#custom-html-d {
-  /* Type valid CSS here */
 }

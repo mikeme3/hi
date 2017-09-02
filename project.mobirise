@@ -109,7 +109,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PHOTOGRAPHY PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">WRITING AND ART SUBMISSIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ACTS OF KINDNESS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">WHATS HAPPENING IN CRESTWOOD</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">SPORTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Football</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Basketball</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Volleyball</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">PHOTOGRAPHY PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">JOIN THE PHOTOGRAPHY CLUB</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">WRITING AND ART SUBMISSIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ACTS OF KINDNESS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">WHATS HAPPENING IN CRESTWOOD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">SPORTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Football</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Basketball</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Volleyball</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -164,7 +164,12 @@
             "Theme"
           ],
           "_name": "header11",
-          "_anchor": "header11-0"
+          "_anchor": "header11-0",
+          "_styles": {
+            "H1": {
+              "font-size": "84px"
+            }
+          }
         },
         {
           "_params": {
@@ -297,20 +302,6 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSf8W20knROXj0_OEn4zom5Kakd3PnM7m9Dh5EKQduVUcKsKCg/viewform?embedded=true\" width=\"1300\" height=\"1300\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading...</iframe>",
-          "_customCSS": "/* Type valid CSS here */\n",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-d",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
         }
       ]
     }
