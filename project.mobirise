@@ -24,7 +24,11 @@
     },
     "versionFirst": "4.2.3",
     "uniqCompNum": 14,
-    "versionPublish": "4.2.3"
+    "versionPublish": "4.2.3",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-3-16x16.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -109,7 +113,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
