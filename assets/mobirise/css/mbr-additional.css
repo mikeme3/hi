@@ -790,7 +790,27 @@ blockquote {
 }
 #features8-3 .mbr-section-subtitle {
   text-transform: uppercase;
+  color: #ffffff;
 }
 #features8-3 .mbr-section-title {
   color: #ffffff;
+}
+#features8-3 .mbr-section-text {
+  color: #ffffff;
+}
+#features7-5 .lead {
+  color: #9fa3a7;
+}
+#features7-5 .mbr-section-subtitle {
+  text-transform: uppercase;
+  color: #ffffff;
+}
+#features7-5 .mbr-section-title {
+  color: #ffffff;
+}
+#features7-5 .mbr-section-text {
+  color: #ffffff;
+}
+#custom-html-d {
+  /* Type valid CSS here */
 }
