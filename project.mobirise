@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "4.2.3",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-3-16x16.png",
     "noImageResize": "",
@@ -156,18 +156,18 @@
             "overlayOpacity": 0.1
           },
           "title": "SNAPS&nbsp;<br> FOR",
-          "text": "At Crestwood High School we are dedicated to make sure that everyone is recognized for their deeds.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET FREE TRIAL</a>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "header11",
-          "_anchor": "header11-0",
+          "_anchor": "header11-v",
           "_styles": {
             "H1": {
-              "font-size": "84px"
+              "font-size": "48px"
             }
           }
         },
